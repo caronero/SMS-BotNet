@@ -1,6 +1,6 @@
 # 📱 SMS BotNet
 
-<div align="center">
+ 
 
 ![System Architecture](system-diagram.png)
 
