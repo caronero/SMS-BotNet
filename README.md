@@ -93,9 +93,7 @@ For inquiries, custom development, or support:
 
 ## 🎥 Demo & Documentation
 
-- 📺 [Watch Demo Video](https://example.com/demo)
-- 📚 [Full Documentation](https://example.com/docs)
-- 🛠️ [API Reference](https://example.com/api)
+- 📺 [Watch Demo Video](https://t.me/SMS_BOTnetTool/2)
 
 ## 💎 Premium Features
 
